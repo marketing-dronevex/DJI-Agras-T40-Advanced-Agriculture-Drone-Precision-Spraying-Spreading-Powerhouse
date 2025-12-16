@@ -1,2 +1,4 @@
-# DJI-Agras-T40-Advanced-Agriculture-Drone-Precision-Spraying-Spreading-Powerhouse
-https://dronevex.in/product/dji-agras-t40-advanced-agriculture-drone/
+DJI Agras T40 Advanced Agriculture Drone: Precision Spraying & Spreading Powerhouse
+
+The DJI Agras T40 revolutionizes large-scale farming with its coaxial twin-rotor design carrying 40kg spray load (90kg max takeoff) and 50kg spread load (101kg max takeoff) across 40 acres/hour. Dual atomized spraying system delivers 50-500μm droplets with 11m spray width, while omnidirectional phased array radar and binocular vision ensure safe autonomous operation. RTK positioning (±10cm accuracy), real-time mapping with 12MP UHD camera, and terrain-following enable precise orchard/farmland coverage. IP67-rated for harsh conditions, it supports multi-mission workflows from surveying to chemical application with minimal waste and maximum efficiency.​
+Explore more: https://dronevex.in/product/dji-agras-t40-advanced-agriculture-drone/
